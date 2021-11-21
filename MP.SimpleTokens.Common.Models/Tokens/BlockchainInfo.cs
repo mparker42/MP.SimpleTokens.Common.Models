@@ -6,7 +6,7 @@ namespace MP.SimpleTokens.Common.Models.Tokens
     {
         public string? Address { get; set; }
 
-        public BigInteger? TokenId { get; set; }
+        public long? TokenId { get; set; }
 
         public string? TokenUri { get; set; }
 
