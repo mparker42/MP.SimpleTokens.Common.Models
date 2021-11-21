@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>mparker42</Authors>
-    <Description>An abstraction layer for the mongo nuget package to allow for easy service switching and unit testing without widescale code refactors.</Description>
+    <Description>Simple common models that are part of the simple tokens Devember 2021 project.</Description>
     <PackageProjectUrl>https://github.com/mparker42/MP.SimpleTokens.Common.Models</PackageProjectUrl>
     <RepositoryUrl>https://github.com/mparker42/MP.SimpleTokens.Common.Models</RepositoryUrl>
     <PackageLicenseExpression>MIT-0</PackageLicenseExpression>
